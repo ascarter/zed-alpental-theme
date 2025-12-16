@@ -2,9 +2,9 @@
 
 Minimal Zed theme focused on typography.
 
-![Alpental light](screenshots/alpental-light.png)
+![Alpental light](screenshots/light.png)
 
-![Alpental dark](screenshots/alpental-dark.png)
+![Alpental dark](screenshots/dark.png)
 
 ## Prerequisites
 - Install the [veneer-theme](https://github.com/ascarter/veneer-theme) CLI used to build the theme assets:
