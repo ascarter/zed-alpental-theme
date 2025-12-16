@@ -7,11 +7,11 @@ Minimal Zed theme focused on typography.
 ![Emerald dark](screenshots/emerald-dark.png)
 
 ## Prerequisites
-- Install the `veneer-theme` CLI used to build the theme assets:
+- Install the [veneer-theme](https://github.com/ascarter/veneer-theme) CLI used to build the theme assets:
   ```sh
   cargo install --git https://github.com/ascarter/veneer-theme
   ```
-- Install `just` for running the task recipes:
+- Install [just](https://just.systems) for running the task recipes:
   ```sh
   brew install just
   ```
