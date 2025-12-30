@@ -77,9 +77,6 @@
             "color": "{{ light.text_secondary }}",
             "font_style": "italic"
           },
-          "constant": {
-            "font_style": "italic"
-          },
           "embedded": {
             "font_style": "italic",
             "color": "{{ light.text_secondary }}"
@@ -104,12 +101,6 @@
             "font_style": "italic"
           },
           "punctuation.list_marker": {
-            "font_weight": 600
-          },
-          "string.regex": {
-            "font_weight": 600
-          },
-          "string.special": {
             "font_weight": 600
           },
           "tag": {
@@ -199,9 +190,6 @@
             "color": "{{ dark.text_secondary }}",
             "font_style": "italic"
           },
-          "constant": {
-            "font_style": "italic"
-          },
           "embedded": {
             "font_style": "italic",
             "color": "{{ dark.text_secondary }}"
@@ -226,12 +214,6 @@
             "font_style": "italic"
           },
           "punctuation.list_marker": {
-            "font_weight": 600
-          },
-          "string.regex": {
-            "font_weight": 600
-          },
-          "string.special": {
             "font_weight": 600
           },
           "tag": {
