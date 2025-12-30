@@ -93,9 +93,6 @@
           "link_uri": {
             "color": "#4294FF"
           },
-          "namespace": {
-            "font_weight": 600
-          },
           "preproc": {
             "color": "#494949",
             "font_style": "italic"
@@ -205,9 +202,6 @@
           },
           "link_uri": {
             "color": "#4294FF"
-          },
-          "namespace": {
-            "font_weight": 600
           },
           "preproc": {
             "color": "#CBCBCB",
