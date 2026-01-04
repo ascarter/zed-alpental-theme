@@ -73,16 +73,20 @@
           }
         ],
         "syntax": {
-          "comment": {
+          "attribute": {
             "color": "#494949",
+          },
+          "comment": {
+            "color": "#636363",
             "font_style": "italic"
           },
           "embedded": {
-            "font_style": "italic",
-            "color": "#494949"
+            "color": "#494949",
+            "font_style": "italic"
           },
           "emphasis": {
-            "font_weight": 400
+            "font_weight": 400,
+            "font_style": "italic"
           },
           "emphasis.strong": {
             "font_weight": 700
@@ -105,6 +109,7 @@
             "font_weight": 600
           },
           "text.literal": {
+            "color": "#494949",
             "font_style": "italic"
           },
           "title": {
@@ -147,7 +152,7 @@
         "created": "#4294FF",
         "deleted": "#F05A4F",
         "error": "#F05A4F",
-        "hidden": "#494949",
+        "hidden": "#7A7A7A",
         "info": "#4294FF",
         "info.background": "#005E7D40",
         "modified": "#FFAC00",
@@ -183,16 +188,20 @@
           }
         ],
         "syntax": {
+          "attribute": {
+            "color": "#CBCBCB"
+          },
           "comment": {
-            "color": "#CBCBCB",
+            "color": "#7A7A7A",
             "font_style": "italic"
           },
           "embedded": {
-            "font_style": "italic",
-            "color": "#CBCBCB"
+            "color": "#CBCBCB",
+            "font_style": "italic"
           },
           "emphasis": {
-            "font_weight": 400
+            "font_weight": 400,
+            "font_style": "italic"
           },
           "emphasis.strong": {
             "font_weight": 700
@@ -215,6 +224,7 @@
             "font_weight": 600
           },
           "text.literal": {
+            "color": "#CBCBCB",
             "font_style": "italic"
           },
           "title": {

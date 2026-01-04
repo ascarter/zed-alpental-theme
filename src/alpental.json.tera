@@ -73,16 +73,20 @@
           }
         ],
         "syntax": {
-          "comment": {
+          "attribute": {
             "color": "{{ light.text_secondary }}",
+          },
+          "comment": {
+            "color": "{{ light.text_tertiary }}",
             "font_style": "italic"
           },
           "embedded": {
-            "font_style": "italic",
-            "color": "{{ light.text_secondary }}"
+            "color": "{{ light.text_secondary }}",
+            "font_style": "italic"
           },
           "emphasis": {
-            "font_weight": 400
+            "font_weight": 400,
+            "font_style": "italic"
           },
           "emphasis.strong": {
             "font_weight": 700
@@ -105,6 +109,7 @@
             "font_weight": 600
           },
           "text.literal": {
+            "color": "{{ light.text_secondary }}",
             "font_style": "italic"
           },
           "title": {
@@ -183,16 +188,20 @@
           }
         ],
         "syntax": {
+          "attribute": {
+            "color": "{{ dark.text_secondary }}"
+          },
           "comment": {
-            "color": "{{ dark.text_secondary }}",
+            "color": "{{ dark.text_tertiary }}",
             "font_style": "italic"
           },
           "embedded": {
-            "font_style": "italic",
-            "color": "{{ dark.text_secondary }}"
+            "color": "{{ dark.text_secondary }}",
+            "font_style": "italic"
           },
           "emphasis": {
-            "font_weight": 400
+            "font_weight": 400,
+            "font_style": "italic"
           },
           "emphasis.strong": {
             "font_weight": 700
@@ -215,6 +224,7 @@
             "font_weight": 600
           },
           "text.literal": {
+            "color": "{{ dark.text_secondary }}",
             "font_style": "italic"
           },
           "title": {
