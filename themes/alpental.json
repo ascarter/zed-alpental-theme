@@ -34,7 +34,7 @@
         "terminal.ansi.bright_cyan": "#1A8C98",
         "terminal.ansi.bright_white": "#FFFFFF",
         "conflict": "#D58103",
-        "created": "#005E7D",
+        "created": "#4294FF",
         "deleted": "#F05A4F",
         "error": "#F05A4F",
         "hidden": "#636363",
@@ -60,11 +60,11 @@
         "version_control.word_added": "#FFAC0040",
         "version_control.word_deleted": "#F05A4F40",
         "vim.normal.background": "#ECECEC",
-        "vim.insert.background": "#FFAC00",
-        "vim.replace.background": "#FFAC00",
-        "vim.visual.background": "#4294FFA3",
+        "vim.insert.background": "#FFAC004D",
+        "vim.replace.background": "#FFAC004D",
+        "vim.visual.background": "#4294FF33",
         "vim.helix_normal.background": "#ECECEC",
-        "vim.helix_select.background": "#4294FFA3",
+        "vim.helix_select.background": "#4294FF33",
         "players": [
           {
             "cursor": "#4294FF",
@@ -154,7 +154,7 @@
         "error": "#F05A4F",
         "hidden": "#7A7A7A",
         "info": "#4294FF",
-        "info.background": "#005E7D4D",
+        "info.background": "#005E7D80",
         "modified": "#FFAC00",
         "text": "#FFFFFF",
         "text.accent": "#4294FF",
@@ -179,7 +179,7 @@
         "vim.replace.background": "#FFAC0099",
         "vim.visual.background": "#4294FF99",
         "vim.helix_normal.background": "#212121",
-        "vim.helix_select.background": "#4294FFA3",
+        "vim.helix_select.background": "#4294FF99",
         "players": [
           {
             "cursor": "#4294FF",

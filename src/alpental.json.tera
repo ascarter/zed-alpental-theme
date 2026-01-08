@@ -34,7 +34,7 @@
         "terminal.ansi.bright_cyan": "{{ ansi.light.bright.cyan }}",
         "terminal.ansi.bright_white": "{{ ansi.light.bright.white }}",
         "conflict": "{{ accents.warning_secondary }}",
-        "created": "{{ accents.info_secondary }}",
+        "created": "{{ accents.info }}",
         "deleted": "{{ accents.error }}",
         "error": "{{ accents.error }}",
         "hidden": "{{ light.text_tertiary }}",
@@ -60,11 +60,11 @@
         "version_control.word_added": "{{ with_alpha(color=accents.warning, alpha=0.25) }}",
         "version_control.word_deleted": "{{ with_alpha(color=accents.error, alpha=0.25) }}",
         "vim.normal.background": "{{ light.tertiary }}",
-        "vim.insert.background": "{{ accents.warning }}",
-        "vim.replace.background": "{{ accents.warning }}",
-        "vim.visual.background": "{{ with_alpha(color=accents.info, alpha=0.64) }}",
+        "vim.insert.background": "{{ with_alpha(color=accents.warning, alpha=0.3) }}",
+        "vim.replace.background": "{{ with_alpha(color=accents.warning, alpha=0.3) }}",
+        "vim.visual.background": "{{ with_alpha(color=accents.info, alpha=0.2) }}",
         "vim.helix_normal.background": "{{ light.tertiary }}",
-        "vim.helix_select.background": "{{ with_alpha(color=accents.info, alpha=0.64) }}",
+        "vim.helix_select.background": "{{ with_alpha(color=accents.info, alpha=0.2) }}",
         "players": [
           {
             "cursor": "{{ accents.info }}",
@@ -154,7 +154,7 @@
         "error": "{{ accents.error }}",
         "hidden": "{{ dark.text_tertiary }}",
         "info": "{{ accents.info }}",
-        "info.background": "{{ with_alpha(color=accents.info_secondary, alpha=0.3) }}",
+        "info.background": "{{ with_alpha(color=accents.info_secondary, alpha=0.5) }}",
         "modified": "{{ accents.warning }}",
         "text": "{{ dark.text_primary }}",
         "text.accent": "{{ accents.info }}",
@@ -179,7 +179,7 @@
         "vim.replace.background": "{{ with_alpha(color=accents.warning, alpha=0.6) }}",
         "vim.visual.background": "{{ with_alpha(color=accents.info, alpha=0.6) }}",
         "vim.helix_normal.background": "{{ dark.secondary }}",
-        "vim.helix_select.background": "{{ with_alpha(color=accents.info, alpha=0.64) }}",
+        "vim.helix_select.background": "{{ with_alpha(color=accents.info, alpha=0.6) }}",
         "players": [
           {
             "cursor": "{{ accents.info }}",
