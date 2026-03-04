@@ -100,6 +100,8 @@
         "vim.insert.background": "#FFAC004D",
         "vim.replace.background": "#FFAC004D",
         "vim.visual.background": "#4294FF33",
+        "vim.visual_line.background": "#4294FF33",
+        "vim.visual_block.background": "#4294FF33",
         "vim.helix_normal.background": "#ECECEC",
         "vim.helix_select.background": "#4294FF33",
         "players": [
@@ -252,6 +254,8 @@
         "vim.insert.background": "#FFAC00B3",
         "vim.replace.background": "#FFAC00B3",
         "vim.visual.background": "#4294FF99",
+        "vim.visual_line.background": "#4294FF99",
+        "vim.visual_block.background": "#4294FF99",
         "vim.helix_normal.background": "#212121",
         "vim.helix_select.background": "#4294FF99",
         "players": [

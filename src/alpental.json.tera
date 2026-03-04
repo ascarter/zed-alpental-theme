@@ -100,6 +100,8 @@
         "vim.insert.background": "{{ with_alpha(color=accents.warning, alpha=0.3) }}",
         "vim.replace.background": "{{ with_alpha(color=accents.warning, alpha=0.3) }}",
         "vim.visual.background": "{{ with_alpha(color=accents.info, alpha=0.2) }}",
+        "vim.visual_line.background": "{{ with_alpha(color=accents.info, alpha=0.2) }}",
+        "vim.visual_block.background": "{{ with_alpha(color=accents.info, alpha=0.2) }}",
         "vim.helix_normal.background": "{{ light.tertiary }}",
         "vim.helix_select.background": "{{ with_alpha(color=accents.info, alpha=0.2) }}",
         "players": [
@@ -252,6 +254,8 @@
         "vim.insert.background": "{{ with_alpha(color=accents.warning, alpha=0.7) }}",
         "vim.replace.background": "{{ with_alpha(color=accents.warning, alpha=0.7) }}",
         "vim.visual.background": "{{ with_alpha(color=accents.info, alpha=0.6) }}",
+        "vim.visual_line.background": "{{ with_alpha(color=accents.info, alpha=0.6) }}",
+        "vim.visual_block.background": "{{ with_alpha(color=accents.info, alpha=0.6) }}",
         "vim.helix_normal.background": "{{ dark.secondary }}",
         "vim.helix_select.background": "{{ with_alpha(color=accents.info, alpha=0.6) }}",
         "players": [
