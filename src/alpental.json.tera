@@ -104,6 +104,7 @@
         "vim.visual_block.background": "{{ with_alpha(color=accents.info, alpha=0.2) }}",
         "vim.helix_normal.background": "{{ light.tertiary }}",
         "vim.helix_select.background": "{{ with_alpha(color=accents.info, alpha=0.2) }}",
+        "vim.yank.background": "{{ with_alpha(color=accents.warning, alpha=0.3) }}",
         "players": [
           {
             "cursor": "{{ accents.info }}",
@@ -258,6 +259,7 @@
         "vim.visual_block.background": "{{ with_alpha(color=accents.info, alpha=0.6) }}",
         "vim.helix_normal.background": "{{ dark.secondary }}",
         "vim.helix_select.background": "{{ with_alpha(color=accents.info, alpha=0.6) }}",
+        "vim.yank.background": "{{ with_alpha(color=accents.warning, alpha=0.7) }}",
         "players": [
           {
             "cursor": "{{ accents.info }}",
